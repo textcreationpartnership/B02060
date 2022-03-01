@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties declaration to all his loving subjects, to preserve inviolable the securities by him given for moneys, and the due course of payments thereupon in the receipt of the Exchequer.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02060</idno>
+            <idno type="STC">Wing C2999A</idno>
+            <idno type="STC">ESTC R214921</idno>
+            <idno type="EEBO-CITATION">49520857</idno>
+            <idno type="OCLC">ocm 49520857</idno>
+            <idno type="VID">174102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174102)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2664:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties declaration to all his loving subjects, to preserve inviolable the securities by him given for moneys, and the due course of payments thereupon in the receipt of the Exchequer.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>[1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two copies of this item are at this reel position; both are cropped, with loss of date in imprint.</note>
+                  <note>"Given at Our Court at Whitehall, this 18th day [of] June 1667. And in the Nineteenth year of Our Reign"--last line of text.</note>
+                  <note>Reproduction of originals in: Bodleian Library and Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1664-1667 --  Finance.</term>
+               <term>Bondholders --  Government policy --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174102:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>His Maieſties DECLARATION To all His loving Subjects, to preſerve Inviolable the Securities by Him given for Moneys, and the due Courſe of Payments thereupon in the Receipt of the <hi>EXCHEQ<g ref="char:V">Ʋ</g>ER.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas We are given to underſtand, That divers of Our good and loyal Subjects, Goldſmiths and others, who have advanced to Vs great ſums of Money for the Pub<g ref="char:EOLhyphen"/>lick Service, which are ſufficiently Secured unto them upon ſeveral Branches of Our Revenue, and other Moneys ariſing by ſeveral late Acts of Parliament, have upon occaſion taken from the late Attempt of the <hi>Dutch Fleet,</hi> and the falſe Reports ſpread thereof; been preſt in an unuſual manner, with many ſudden Demands by their Cre<g ref="char:EOLhyphen"/>ditors for preſent Payment, through fears and apprehenſions; which may weaken the Credit of Our ſaid Subjects, who have been ſo uſeful to Vs, bring an Vndervalue on Our ſaid Securities, and in conſequence indanger the Publick Safety in this preſent Conjuncture: We have therefore thought fit (as well for ſatisfying the Mindes of Our good Subjects, whoſe Fears ſo tranſported them to call for their Moneys in ſuch a manner; as for the allaying ſuch Iealouſies and Miſapprehenſions as may be taken up by thoſe concerned in the ſaid Securities) to Declare, as We do hereby Declare, That as the Courſe of Payments in Our <hi>Exchequer</hi> hath hitherto beén punctual, and according to the due Order, even in this time of diſturbance and interruption of Payments amongſt Our Subjects; ſo Our ſted<g ref="char:EOLhyphen"/>faſt reſolution for preſerving inviolable to all ſuch Our good Subjects, who have lent or advanced any Moneys for Our ſervice as aforeſaid, all and every the Securities and Aſſignments any ways made by Vs for and towards the repayment and ſatisfaction of the ſaid ſeveral Sums of Money: And that We will not upon any occaſion whatſoever permit or ſuffer any Alteration, Anticipation, or Interruption to be made of Our ſaid Subjects Securities; but that they ſhall from time to time receive the Moneys ſo ſecured unto them, in the ſame courſe and method, as they were charged, and ought to be ſatisfied. Which reſolution We ſhall likewiſe hold firm and ſacred, in all future Aſſign<g ref="char:EOLhyphen"/>ments and Securities to be by Vs granted upon any other Advance of Money by any of Our Sub<g ref="char:EOLhyphen"/>jects upon any future occaſion for Our ſervice. And We cannot doubt upon the publiſhing this Our Royal Word and Declaration of Our ſincere Intention, but that all reaſonable perſons will reſt ſatisfied that their fears were cauſeleſs, and their reſpective Intereſts in no danger at all, and that no evil can happen to them on this Occaſion; ſince the Securities by Vs to them given being invio<g ref="char:EOLhyphen"/>lable, We doubt not but that Our ſaid Subjects will ſatisfie every perſon both their Principal and Intereſt, as they have formerly done with untainted reputation. And of this Our Declaration We ſtraitly Charge and Command Our High Chancellor of <hi>England,</hi> the Lords Commiſſioners of Our Treaſury, the Chancellor and Vnder-Treaſurer of Our <hi>Exchequer,</hi> and all other Our Officers and Miniſters whatſoever whom it doth or may concern, to take notice and duly to obſerve the ſame, as they will be anſwerable to Vs at their utmoſt perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at Whitehall, <date>this 18<hi rend="sup">th.</hi> day of <hi>June</hi> 1667. And in the Nineteenth year of Our Reign.</date>
+                  </hi>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
